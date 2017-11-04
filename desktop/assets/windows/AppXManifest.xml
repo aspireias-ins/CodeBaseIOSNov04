@@ -23,7 +23,7 @@
     <rescap:Capability Name="runFullTrust"/>
   </Capabilities>
   <Applications>
-    <Application Id="com.aspire.aspireias" Executable="app\Aspire IAS.exe" EntryPoint="Windows.FullTrustApplication">
+    <Application Id="com.aspire.aspireiasolt" Executable="app\Aspire IAS.exe" EntryPoint="Windows.FullTrustApplication">
       <uap:VisualElements
        BackgroundColor="#464646"
        DisplayName="Aspire IAS"
